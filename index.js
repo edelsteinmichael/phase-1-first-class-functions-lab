@@ -38,5 +38,5 @@ function fareTripler(farePrice) {
 // task 3
 
 function selectDifferentDrivers(drivers, selectingDrivers) {
-    return selectingDrivers
+    return selectingDrivers(drivers)
 }
